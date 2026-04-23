@@ -1,4 +1,4 @@
-# Real Estate UI Framework (Yardi-Style)
+# Real Estate UI Framework
 
 A high-performance, responsive Real Estate User Interface built with **React** and **Vite**. This project demonstrates a modular architecture for property management systems, focusing on reusable components and reactive data flow.
 
